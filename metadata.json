@@ -1,0 +1,5 @@
+{
+  "name": "File Embedding Tools",
+  "description": "A suite of tools for embedding files within other files. Includes polyglot creation/decoding, image conversion, and more.",
+  "requestFramePermissions": []
+}
